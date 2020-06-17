@@ -22,4 +22,17 @@
         android:name="com.viccontracovid.gamejam.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_security"
+        android:name="com.viccontracovid.gamejam.ui.security.SecurityFragment"
+        android:label="@string/title_security"
+        tools:layout="@layout/fragment_security" />
+
+    <fragment
+        android:id="@+id/navigation_config"
+        android:name="com.viccontracovid.gamejam.ui.config.ConfigurationFragment"
+        android:label="@string/title_config"
+        tools:layout="@layout/fragment_config" />
+
 </navigation>
