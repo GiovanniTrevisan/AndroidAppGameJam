@@ -1,8 +1,14 @@
 <resources>
+
     <string name="app_name">GameJam</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="title_security">Security</string>
+    <string name="title_security">Password</string>
+    <string name="title_change_security">Change Password</string>
     <string name="title_config">Configurations</string>
+
+    <string name="lblPassword">Enter Your Password :</string>
+    <string name="btn_submit">Submit</string>
+
 </resources>

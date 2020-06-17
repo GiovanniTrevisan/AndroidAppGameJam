@@ -22,9 +22,9 @@ class SecurityFragment : Fragment() {
         securityViewModel =
                 ViewModelProviders.of(this).get(SecurityViewModel::class.java)
         val root = inflater.inflate(R.layout.fragment_security, container, false)
-        val textView: TextView = root.findViewById(R.id.text_security)
+
         securityViewModel.text.observe(this, Observer {
-            textView.text = it
+
         })
 
         return root
