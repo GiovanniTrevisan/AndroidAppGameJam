@@ -26,4 +26,9 @@
     <string name="bem_vindo">Welcome</string>
     <string name="alterar_senha">Change Password</string>
     <string name="endere_o">Adress</string>
+    <string name="configuraces_sociais">Social Settings</string>
+    <string name="deseja_exibir_publicamente_seu_perfil_do_clube_de_treinadores_pok_mon_isso_inclui_conte_do_como_a_sua_imagem_de_treinador_o_seu_nome_de_tela_e_as_suas_estat_sticas_de_jogo_informa_es_pessoais_como_seu_nome_real_s_o_sempre_mantidas_privadas">Do you want to publicly display your Pokémon Trainer Club profile? This includes content, such as your Coach image, your screen name and your game statistics. Personal information, like your real name, is always kept private.</string>
+    <string name="eu_gostaria_de_receber_comunica_es_de_marketing_incluindo_mensagens_de_e_mail_com_as_mais_recentes_not_cias_ofertas_promo_es_eventos_jogos_e_outras_maneiras_de_receber_comunica_es_de_marketing_da_the_pok_mon_company_international">I would like to receive marketing communications, including email messages with the latest news, offers, promotions, events, games and other ways to receive marketing communications from The Pokémon Company International.</string>
+    <string name="title_home">Home</string>
+    <string name="voc_pode_cancelar_o_recebimento_das_comunica_es_de_marketing_a_qualquer_momento_ao_atualizar_a_sua_prefer_ncia_de_marketing_nesta_p_gina_ou_ao_selecionar_o_link_de_cancelamento_de_assinatura_nos_e_mails_de_marketing">You can opt out of receiving marketing communications at any time by updating your marketing preference on this page or by selecting the unsubscribe link in marketing emails.</string>
 </resources>
