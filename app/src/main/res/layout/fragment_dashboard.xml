@@ -15,7 +15,7 @@
         android:id="@+id/textView13"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="País ou Região"
+        android:text="@string/pa_s_ou_regi_o"
         app:layout_constraintBottom_toTopOf="@+id/spinner2"
         app:layout_constraintStart_toStartOf="@+id/spinner2" />
 
@@ -23,7 +23,7 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Data de Nascimento"
+        android:text="@string/data_de_nascimento"
         app:layout_constraintBottom_toTopOf="@+id/editText6"
         app:layout_constraintStart_toStartOf="@+id/editText6" />
 
@@ -60,7 +60,7 @@
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Nome do Úsuario"
+        android:text="@string/nome_do_usuario"
         app:layout_constraintBottom_toTopOf="@+id/editText5"
         app:layout_constraintStart_toStartOf="@+id/editText5" />
 
@@ -68,7 +68,7 @@
         android:id="@+id/textView7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Endereço de Email"
+        android:text="@string/endere_o_de_email"
         app:layout_constraintBottom_toTopOf="@+id/editText7"
         app:layout_constraintStart_toStartOf="@+id/editText7" />
 
@@ -126,7 +126,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="32dp"
-        android:text="Informações Básicas"
+        android:text="@string/informa_es_b_sicas"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -136,7 +136,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Endereço"
+        android:text="@string/endere_o"
 
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintStart_toStartOf="@+id/textView8"

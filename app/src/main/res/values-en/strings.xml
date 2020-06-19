@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameJam</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_security">Security Data</string>
+    <string name="title_change_security">Change Password</string>
+    <string name="title_config">Configurations</string>
+    <string name="senha">Password:</string>
+    <string name="sim">Yes</string>
+    <string name="save">Save</string>
+    <string name="lblPassword">Enter Your Password :</string>
+    <string name="nao">No</string>
+    <string name="nome_do_user">Username</string>
+    <string name="nome_do_usuario">Username</string>
+    <string name="pa_s_ou_regi_o">Country adn Region</string>
+    <string name="preferencias_de_marketing">Marketing Preferences</string>
+    <string name="idade_do_user">User age</string>
+    <string name="informa_es_b_sicas">Basic Info</string>
+    <string name="login">Login:</string>
+    <string name="endere_o_de_email">Email Adress</string>
+    <string name="email_do_user">User email</string>
+    <string name="data_de_nascimento">Birthday</string>
+    <string name="confirmar_senha">Confirm Password</string>
+    <string name="btn_submit">Send</string>
+    <string name="bem_vindo">Welcome</string>
+    <string name="alterar_senha">Change Password</string>
+    <string name="endere_o">Adress</string>
+</resources>

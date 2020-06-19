@@ -2,16 +2,38 @@
 
     <string name="app_name">GameJam</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Profile</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="title_security">Security Data</string>
-    <string name="title_change_security">Change Password</string>
-    <string name="title_config">Configurations</string>
+    <string name="title_dashboard">Perfil</string>
+    <string name="title_notifications">Notificações</string>
+    <string name="title_security">Dados de Segurança</string>
+    <string name="title_change_security">Mudar Senha</string>
+    <string name="title_config">Configurações</string>
 
     <string name="lblPassword">Enter Your Password :</string>
-    <string name="btn_submit">Submit</string>
+    <string name="btn_submit">Enviar</string>
+    <string name="configuraces_sociais">Configurações Sociais</string>
+    <string name="deseja_exibir_publicamente_seu_perfil_do_clube_de_treinadores_pok_mon_isso_inclui_conte_do_como_a_sua_imagem_de_treinador_o_seu_nome_de_tela_e_as_suas_estat_sticas_de_jogo_informa_es_pessoais_como_seu_nome_real_s_o_sempre_mantidas_privadas">Deseja exibir publicamente seu perfil do Clube de Treinadores Pokémon? Isso inclui conteúdo, como a sua imagem de Treinador, o seu nome de tela e as suas estatísticas de jogo. Informações pessoais, como seu nome real, são sempre mantidas privadas.</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="preferencias_de_marketing">Preferências de marketing</string>
+    <string name="voc_pode_cancelar_o_recebimento_das_comunica_es_de_marketing_a_qualquer_momento_ao_atualizar_a_sua_prefer_ncia_de_marketing_nesta_p_gina_ou_ao_selecionar_o_link_de_cancelamento_de_assinatura_nos_e_mails_de_marketing">Você pode cancelar o recebimento das comunicações de marketing a qualquer momento ao atualizar a sua preferência de marketing nesta página ou ao selecionar o link de cancelamento de assinatura nos e-mails de marketing.</string>
+    <string name="eu_gostaria_de_receber_comunica_es_de_marketing_incluindo_mensagens_de_e_mail_com_as_mais_recentes_not_cias_ofertas_promo_es_eventos_jogos_e_outras_maneiras_de_receber_comunica_es_de_marketing_da_the_pok_mon_company_international">Eu gostaria de receber comunicações de marketing, incluindo mensagens de e-mail com as mais recentes notícias, ofertas, promoções, eventos, jogos e outras maneiras de receber comunicações de marketing da The Pokémon Company International.</string>
+    <string name="save">Salvar</string>
+    <string name="pa_s_ou_regi_o">País ou Região</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="nome_do_usuario">Nome do Úsuario</string>
+    <string name="endere_o_de_email">Endereço de Email</string>
+    <string name="informa_es_b_sicas">Informações Básicas</string>
+    <string name="endere_o">Endereço</string>
+    <string name="idade_do_user">Idade do User</string>
+    <string name="nome_do_user">Nome do User</string>
+    <string name="email_do_user">Email do User</string>
+    <string name="bem_vindo">Bem Vindo</string>
+    <string name="alterar_senha">Mudar senha</string>
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="confirmar_senha">Confirmar Senha:</string>
 
-        <string-array name="country_array">
+    <string-array name="country_array">
             <item>Argentina</item>
             <item>Índia</item>
             <item>Austrália</item>

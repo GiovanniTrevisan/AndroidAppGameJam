@@ -20,7 +20,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
-        android:text="Configurações Sociais"
+        android:text="@string/configuraces_sociais"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -35,7 +35,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
-        android:text="Deseja exibir publicamente seu perfil do Clube de Treinadores Pokémon? Isso inclui conteúdo, como a sua imagem de Treinador, o seu nome de tela e as suas estatísticas de jogo. Informações pessoais, como seu nome real, são sempre mantidas privadas."
+        android:text="@string/deseja_exibir_publicamente_seu_perfil_do_clube_de_treinadores_pok_mon_isso_inclui_conte_do_como_a_sua_imagem_de_treinador_o_seu_nome_de_tela_e_as_suas_estat_sticas_de_jogo_informa_es_pessoais_como_seu_nome_real_s_o_sempre_mantidas_privadas"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,14 +59,14 @@
             android:id="@+id/radioButton"
             android:layout_width="180dp"
             android:layout_height="wrap_content"
-            android:text="Sim" />
+            android:text="@string/sim" />
 
         <RadioButton
             android:id="@+id/radioButton2"
             android:layout_width="180dp"
             android:layout_height="wrap_content"
             android:checked="true"
-            android:text="Não" />
+            android:text="@string/nao" />
     </RadioGroup>
 
     <TextView
@@ -74,7 +74,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="48dp"
-        android:text="Preferências de marketing"
+        android:text="@string/preferencias_de_marketing"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintStart_toStartOf="@+id/textView9"
         app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
@@ -88,7 +88,7 @@
             android:layout_marginTop="32dp"
             android:layout_marginEnd="24dp"
             android:layout_marginRight="24dp"
-            android:text="Você pode cancelar o recebimento das comunicações de marketing a qualquer momento ao atualizar a sua preferência de marketing nesta página ou ao selecionar o link de cancelamento de assinatura nos e-mails de marketing."
+            android:text="@string/voc_pode_cancelar_o_recebimento_das_comunica_es_de_marketing_a_qualquer_momento_ao_atualizar_a_sua_prefer_ncia_de_marketing_nesta_p_gina_ou_ao_selecionar_o_link_de_cancelamento_de_assinatura_nos_e_mails_de_marketing"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
@@ -104,7 +104,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="24dp"
             android:layout_marginRight="24dp"
-            android:text="Eu gostaria de receber comunicações de marketing, incluindo mensagens de e-mail com as mais recentes notícias, ofertas, promoções, eventos, jogos e outras maneiras de receber comunicações de marketing da The Pokémon Company International."
+            android:text="@string/eu_gostaria_de_receber_comunica_es_de_marketing_incluindo_mensagens_de_e_mail_com_as_mais_recentes_not_cias_ofertas_promo_es_eventos_jogos_e_outras_maneiras_de_receber_comunica_es_de_marketing_da_the_pok_mon_company_international"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -131,7 +131,7 @@
             android:layout_marginEnd="24dp"
             android:layout_marginRight="24dp"
             android:layout_marginBottom="50dp"
-            android:text="Save"
+            android:text="@string/save"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
