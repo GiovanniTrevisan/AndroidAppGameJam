@@ -22,10 +22,6 @@ class ConfigurationFragment : Fragment() {
         configurationViewModel =
                 ViewModelProviders.of(this).get(ConfigurationViewModel::class.java)
         val root = inflater.inflate(R.layout.fragment_config, container, false)
-        val textView: TextView = root.findViewById(R.id.text_config)
-        configurationViewModel.text.observe(this, Observer {
-            textView.text = it
-        })
         return root
     }
 }
